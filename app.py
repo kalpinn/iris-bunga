@@ -31,4 +31,3 @@ if st.button("Predict type of Iris"):
 st.text('')
 st.text('')
 st.markdown("### Hasil Prediksi")
-st.markdown(f"**Jenis bunga:** {result[0]}")
